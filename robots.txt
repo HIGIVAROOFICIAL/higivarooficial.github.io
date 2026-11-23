@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://renatoteixeira567-bot.github.io/higivaro/sitemap.xml
+Sitemap: https://higivarooficial.github.io/sitemap.xml
